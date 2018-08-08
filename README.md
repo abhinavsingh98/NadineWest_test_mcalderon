@@ -1,4 +1,4 @@
-# NadineWest_test
+# Instructions
 
 The repository contains 3 files
 
