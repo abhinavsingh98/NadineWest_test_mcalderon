@@ -10,7 +10,7 @@ The repository contains 3 files
 
 Instructions:
 
-0. If you don't have a github account, create one and ask permission to get access to the repository on the next step. 
+0. If you don't have a github account, create one and ask permission to be a collaborator on the repsitory mentioned below. 
 
 1. Clone the repository NadineWest_test (https://github.com/fconick/NadineWest_test.git) and create your own branch.
 
