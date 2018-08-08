@@ -1,4 +1,6 @@
-# Instructions
+# NADINE WEST TEST
+
+In order to complete this task you will need to access the GitHub repository mentioned on the step 1. This file includes the instructions you will have to follow to complete the test.
 
 The repository contains 3 files
 
